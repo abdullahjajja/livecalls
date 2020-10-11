@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<cdr core-uuid="03b5990f-0ce0-4a48-b6a0-a146a76617c7">
+  <channel_data>
+    <state>CS_REPORTING</state>
+    <direction>inbound</direction>
+    <state_number>11</state_number>
+    <flags>0=1;36=1</flags>
+    <caps>1=1;2=1;3=1;4=1;5=1;6=1</caps>
+  </channel_data>
+  <variables>
+    <direction>inbound</direction>
+    <uuid>49d76c31-024f-4333-a116-538a8fe3f6ca</uuid>
+    <call_uuid>49d76c31-024f-4333-a116-538a8fe3f6ca</call_uuid>
+    <session_id>19332</session_id>
+    <sip_from_user>1001</sip_from_user>
+    <sip_from_uri>1001%40184.154.5.85</sip_from_uri>
+    <sip_from_host>184.154.5.85</sip_from_host>
+    <channel_name>sofia/internal/1001%40184.154.5.85</channel_name>
+    <sip_call_id>0def2a4de3a074723693543291a9bd05</sip_call_id>
+    <hangup_cause>WRONG_CALL_STATE</hangup_cause>
+    <hangup_cause_q850>101</hangup_cause_q850>
+  </variables>
+</cdr>
