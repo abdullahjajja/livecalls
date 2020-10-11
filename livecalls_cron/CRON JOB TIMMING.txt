@@ -1,0 +1,7 @@
+livecalls_cron/cdr_cron_daily     		2 AM Daily
+livecalls_cron/cdr_cron_weekly			2 AM SUNDAY EVERY WEEK
+livecalls_cron/operator_cron_monthly	2 AM 1ST OF EVERY MONTH
+livecalls_cron/operator_cron_weekly		2 AM SUNDAY EVERY WEEK
+livecalls_cron/profit_cron_monthly		2 AM 1ST OF EVERY MONTH
+livecalls_cron/rate_card_pdf			2 AM Daily
+livecalls_cron/update_dids_users_cron	2 AM Daily
