@@ -1,0 +1,61 @@
+Name,Operator,Buying Rate,Selling Rate,Min Duration,Max Duration,Daily Rate,Monthly Rate,Daily Title,Weekly Title,Monthly Title,Currency
+Afghanistan KT1,EZ_Mobile,0.1,0.07,980,1180,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Afghanistan KT2,EZ_Mobile,0.1,0.07,980,1180,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ALGERIA KA1,EZ_Mobile,0.28,0.2,980,1180,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ALGERIA KT1,EZ_Mobile,0.3,0.2,980,1180,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ALGERIA MOBILIS KA1,EZ_Mobile,0.16,0.12,980,1180,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bosnia KT1,EZ_Mobile,0.1,0.07,980,1180,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+BOTSWANA ORANGE KA1,EZ_Mobile,0.12,0.08,980,1180,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi ATK,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+BURUNDI KA1,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KT1,EZ_Mobile,0.17,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+COMOROS KT2,EZ_Mobile,0.18,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+CONGO KS1,EZ_Mobile,0.18,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KA2,EZ_Mobile,0.32,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KT8,EZ_Mobile,0.32,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ecuador Porta KT1,EZ_Mobile,0.09,0.06,980,1180,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+GHANA KT1,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+GUINEA BISSAU KT2,EZ_Mobile,0.3,0.2,980,1180,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+GUINEA GAMMA KT1,EZ_Mobile,0.3,0.2,980,1180,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+LATVIA KT1,EZ_Mobile,0.3,0.2,980,1180,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MADAGASCAR,EZ_Mobile,0.25,0.18,980,1180,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MADAGASCAR KA1,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MADAGASCAR KT1,EZ_Mobile,0.25,0.18,980,1180,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MADAGASCAR ORANGE KA1,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MADAGASCAR ORANGE KT1,EZ_Mobile,0.25,0.18,980,1180,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALAWI TMN KA1,EZ_Mobile,0.15,0.11,980,1180,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALAWI ZAIN KA1,EZ_Mobile,0.15,0.11,980,1180,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALDIVES KA1,EZ_Mobile,0.28,0.2,980,1180,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALDIVES KA1,EZ_Mobile,0.28,0.2,980,1180,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALDIVES KA1,EZ_Mobile,0.28,0.2,980,1180,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALDIVES KT1,EZ_Mobile,0.3,0.2,980,1180,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALDIVES KT1,EZ_Mobile,0.3,0.2,980,1180,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALI MALITEL KA1,EZ_Mobile,0.17,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MALI ORANGE KA1,EZ_Mobile,0.17,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MAURITANIA KT1,EZ_Mobile,0.18,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MAURITANIA KT2,EZ_Mobile,0.18,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MOZAMBIQUE KT1,EZ_Mobile,0.06,0.04,980,1180,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MOZAMBIQUE KT1,EZ_Mobile,0.07,0.05,980,1180,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+MOZAMBIQUE KA1,EZ_Mobile,0.12,0.08,980,1180,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+NAURU KA1,EZ_Mobile,0.35,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+NAURU MOBILE KA1,EZ_Mobile,0.35,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+SAO TOME KA1,EZ_Mobile,0.35,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+SAO TOME KA1,EZ_Mobile,0.35,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+SEYCHELLES KA1,EZ_Mobile,0.25,0.18,980,1180,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+SEYCHELLES KA1,EZ_Mobile,0.25,0.18,980,1180,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+SEYCHELLES KA1,EZ_Mobile,0.25,0.18,980,1180,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tanzania Mobile KT3,EZ_Mobile,0.11,0.07,980,1180,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+TOKELAU KA1,EZ_Mobile,0.35,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+TUNISIA KA1,EZ_Mobile,0.15,0.11,980,1180,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+TUNISIA KT1,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+TUNISIA ORANGE KA1,EZ_Mobile,0.28,0.2,980,1180,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+TUNISIA TUNTEL KA1,EZ_Mobile,0.18,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+TUNISIA TUNTEL KT1,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+WESTERN SAMOA KA1,EZ_Mobile,0.35,0.22,980,1180,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ZAMBIA KT5,EZ_Mobile,0.17,0.12,980,1180,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ZIMBABWE ECONET KA1,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe Econet KT12,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ZIMBABWE ECONET KT13,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ZIMBABWE ECONET KT14,EZ_Mobile,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ZIMBABWE NETONE KA1,EZ_Mobile,0.15,0.11,980,1180,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ZIMBABWE TELECEL KA1,EZ_Mobile,0.15,0.11,980,1180,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD

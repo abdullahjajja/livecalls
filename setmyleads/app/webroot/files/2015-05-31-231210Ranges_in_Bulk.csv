@@ -1,0 +1,7 @@
+Name,Operator,Buying Rate,Selling Rate,Min Duration,Max Duration,Daily Rate,Monthly Rate,Daily Title,Weekly Title,Monthly Title,Currency
+Algeria S28,MichaelBigl,0.05,0.04,980,1180,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Madagascar S16,MichaelBigl,0.2,0.14,980,1180,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Liberia S37,MichaelBigl,0.07,0.07,980,1180,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Ecuador S29,MichaelBigl,0.05,0.04,980,1180,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea S15,MichaelBigl,0.12,0.09,980,1180,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe S30,MichaelBigl,0.14,0.1,980,1180,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO

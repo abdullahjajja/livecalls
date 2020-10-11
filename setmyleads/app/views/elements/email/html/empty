@@ -1,0 +1,2 @@
+<p>Dear <?php  // echo $User['User']['first_name']. ' ' . $User['User']['last_name'] ?>,<br />
+     &nbsp;&nbsp;&nbsp;Thank you for your interest.</p>

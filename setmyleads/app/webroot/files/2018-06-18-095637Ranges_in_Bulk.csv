@@ -1,0 +1,192 @@
+Name,Operator,Buying Rate,Selling Rate,Min Duration,Max Duration,Daily Rate,Monthly Rate,Daily Title,Weekly Title,Monthly Title,Currency
+Afghanistan AT,Aggregator,0.145,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania AT,Aggregator,0.14,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria AT,Aggregator,0.14,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Andorra AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Angola AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Anguilla AT,Aggregator,0.1,0.07,7000,7200,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Antarctica AT,Aggregator,0.21,0.15,7000,7200,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Antigua AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Armenia AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Aruba AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ascension Islands AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Australia AT,Aggregator,0.17,0.12,7000,7200,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Austria AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Azerbaijan AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bahamas AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bahrain AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Barbados AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Belarus AT,Aggregator,0.14,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Belgium AT,Aggregator,0.13,0.09,7000,7200,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Belize AT,Aggregator,0.11,0.08,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Benin AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bolivia AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bosnia AT,Aggregator,0.13,0.09,7000,7200,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Botswana AT,Aggregator,0.13,0.09,7000,7200,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Brazil AT,Aggregator,0.07,0.05,7000,7200,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+British AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bulgaria AT,Aggregator,0.09,0.05,7000,7200,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burkina Faso AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi AT,Aggregator,0.21,0.15,7000,7200,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+BVI AT,Aggregator,0.09,0.06,7000,7200,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cameroon AT,Aggregator,0.12,0.08,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cape Verde AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+CAR AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cayman Island AT,Aggregator,0.09,0.05,7000,7200,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cayman Islands AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad AT,Aggregator,0.19,0.13,7000,7200,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chile AT,Aggregator,0.2,0.15,7000,7200,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Comoros AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Congo AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cook AT,Aggregator,0.25,0.18,7000,7200,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Croatia AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba AT,Aggregator,0.3,0.22,7000,7200,0,0.27,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba AT2,Aggregator,0.3,0.22,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cyprus AT,Aggregator,0.125,0.09,7000,7200,0,0.105,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Diego Garcia AT,Aggregator,0.29,0.21,7000,7200,0,0.26,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Djibouti AT,Aggregator,0.14,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Djibouti AT28,Aggregator,0.14,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Dominica AT,Aggregator,0.1,0.06,7000,7200,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+DR Congo AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+East AT,Aggregator,0.22,0.16,7000,7200,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ecuador AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Egypt AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+El Salvador AT,Aggregator,0.08,0.06,7000,7200,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+ELLIPSO AT,Aggregator,0.35,0.26,7000,7200,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Emsat AT,Aggregator,0.55,0.3,7000,7200,0,0.4,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea CT38,Aggregator,0.2,0.15,7000,7200,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea ST,Aggregator,0.245,0.15,7000,7200,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Eritrea AT,Aggregator,0.11,0.07,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Estonia AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Falkland Islands AT,Aggregator,0.26,0.19,7000,7200,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Fiji AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Finland AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+France AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+French Polynesia AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Gabon AT,Aggregator,0.125,0.09,7000,7200,0,0.105,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Gambia AT,Aggregator,0.22,0.16,7000,7200,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Georgia AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ghana AT,Aggregator,0.05,0.036,7000,7200,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Gibraltar AT,Aggregator,0.085,0.06,7000,7200,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Globalstar AT,Aggregator,0.35,0.26,7000,7200,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Greece AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Greenland AT,Aggregator,0.21,0.15,7000,7200,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Grenada AT,Aggregator,0.1,0.06,7000,7200,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guatemala AT,Aggregator,0.075,0.05,7000,7200,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea AT,Aggregator,0.19,0.14,7000,7200,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guyana AT,Aggregator,0.19,0.14,7000,7200,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Haiti AT,Aggregator,0.11,0.08,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Iran AT,Aggregator,0.07,0.05,7000,7200,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Iraq AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Italy AT,Aggregator,0.08,0.06,7000,7200,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ivory AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Jamaica AT,Aggregator,0.09,0.07,7000,7200,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+JERSEY AT,Aggregator,0.35,0.26,7000,7200,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Jordan AT,Aggregator,0.08,0.06,7000,7200,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kazakhstan AT,Aggregator,0.19,0.14,7000,7200,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kenya AT,Aggregator,0.07,0.05,7000,7200,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kiribati AT,Aggregator,0.25,0.18,7000,7200,0,0.21,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kyrgyzstan AT,Aggregator,0.17,0.12,7000,7200,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Latvia AT,Aggregator,0.2,0.15,7000,7200,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lebanon AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lesotho AT,Aggregator,0.13,0.09,7000,7200,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia ET3,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Libya AT,Aggregator,0.11,0.08,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liechtenstein AT,Aggregator,0.11,0.08,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lithuania AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Macedonia AT,Aggregator,0.135,0.1,7000,7200,0,0.115,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Madagascar AT,Aggregator,0.21,0.15,7000,7200,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Malawi AT,Aggregator,0.15,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mali AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Marshall AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania AT,Aggregator,0.19,0.14,7000,7200,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritius AT,Aggregator,0.19,0.14,7000,7200,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mcp Network AT,Aggregator,0.19,0.14,7000,7200,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Micronesia AT,Aggregator,0.19,0.14,7000,7200,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Moldova AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Monaco AT,Aggregator,0.085,0.06,7000,7200,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Montenegro AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Montserrat AT,Aggregator,0.125,0.08,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mozambique AT,Aggregator,0.14,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Myanmar AT,Aggregator,0.11,0.08,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Nauru AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Nepal AT,Aggregator,0.08,0.07,7000,7200,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Netherlands AT,Aggregator,0.11,0.08,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+New Caledonia AT,Aggregator,0.11,0.08,7000,7200,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Nicaragua AT,Aggregator,0.12,0.08,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Niger AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Nigeria AT,Aggregator,0.04,0.03,7000,7200,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Niue AT,Aggregator,0.26,0.19,7000,7200,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Oman AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Pak,Aggregator,0,0,7000,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Palau AT,Aggregator,0.21,0.15,7000,7200,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Papua AT,Aggregator,0.21,0.15,7000,7200,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Philippines AT,Aggregator,0.06,0.04,7000,7200,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Poland AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Portugal AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Qatar AT,Aggregator,0.08,0.06,7000,7200,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Russia AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Rwanda AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Helena KW1,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Helena KW3,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Kittis AT,Aggregator,0.1,0.06,7000,7200,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Lucia AT,Aggregator,0.1,0.06,7000,7200,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+San Marino AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sao Tome AT,Aggregator,0.29,0.21,7000,7200,0,0.26,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saudi Arabia AT,Aggregator,0.06,0.04,7000,7200,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Senegal AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Serbia AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles AT,Aggregator,0.24,0.18,7000,7200,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sierra Leone AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sint Maarten AT,Aggregator,0.06,0.045,7000,7200,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Slovakia AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Slovenia AT,Aggregator,0.16,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Solomon Islands AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia AT,Aggregator,0.23,0.17,7000,7200,0,0.21,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+South Sudan AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Spain AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena AT1,Aggregator,0.32,0.21,7000,7200,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena AT10,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena PS1,Aggregator,0.3,0.22,7000,7200,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena PS2,Aggregator,0.3,0.22,7000,7200,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena PS3,Aggregator,0.3,0.22,7000,7200,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena PS4,Aggregator,0.3,0.22,7000,7200,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Helena T1,Aggregator,0.3,0.22,7000,7200,0,0.24,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Kittis & Nevis AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Lucia AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Pierre AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Vincent AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+St. Vincent AT1,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Suriname AT,Aggregator,0.05,0.036,7000,7200,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+SWAZILAND AT,Aggregator,0.07,0,7000,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Switzerland AT,Aggregator,0.13,0.09,7000,7200,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Syria AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tajikistan AT,Aggregator,0.14,0.1,7000,7200,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tanzania AT,Aggregator,0.08,0.06,7000,7200,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Thuraya AT,Aggregator,0.25,0.18,7000,7200,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Togo AT,Aggregator,0.16,0.12,7000,7200,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tokelau AV1,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tonga AT,Aggregator,0.24,0.18,7000,7200,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Trinidad AT,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Trinidad AT2,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Trinidad AT20,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Trinidad AT46,Aggregator,0.1,0.07,7000,7200,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia AT,Aggregator,0.18,0.13,7000,7200,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Turkmenistan AT,Aggregator,0.06,0.045,7000,7200,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Turks AT,Aggregator,0.08,0.06,7000,7200,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tuvalu AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+UAE AT,Aggregator,0.06,0.055,7000,7200,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Uganda AT,Aggregator,0.28,0.21,7000,7200,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+UK AT,Aggregator,0.06,0.045,7000,7200,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ukraine AT,Aggregator,0.12,0.09,7000,7200,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+UPT AT,Aggregator,0.35,0.26,7000,7200,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Wallis & Futuna AT,Aggregator,0.13,0.09,7000,7200,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Western Samao AT,Aggregator,0.26,0.19,7000,7200,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Yemen AT,Aggregator,0.075,0.05,7000,7200,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zambia AT,Aggregator,0.15,0.11,7000,7200,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe AT,Aggregator,0.2,0.16,7000,7200,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD

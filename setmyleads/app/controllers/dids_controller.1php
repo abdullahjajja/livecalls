@@ -1,0 +1,407 @@
+<?php
+
+class DidsController extends AppController {
+
+     var $name = 'Dids';
+     var $uses = array('Did', 'User', 'DidsUser', 'Currency', 'Didrate', 'Numberrange');
+     var $layout = 'livecalls';
+
+     function index($id = null) {
+          //echo "Enterted in index";
+          //echo $id;
+          //$this->paginate = array('limit' => 3);
+          // $this->Paginator->settings = array('limit' => 3);
+          $this->paginate = array('order' => array('Did.created' => 'desc'));
+          if (!empty($this->data)) {
+               if (isset($this->params['form']['btnassign_x'])) {
+                    $arr_dids = explode(',', $this->data['Did']['hdnselected']);
+                    foreach ($arr_dids as $did) {
+                         //if admin login
+                         if ($this->Auth->user('role_id') == 1) {
+                              $objupdate = $this->DidsUser->find('first', array('conditions' => 'DidsUser.did_id =' . $did));
+                              $objRateupdate = $this->Didrate->find('first', array('conditions' => 'Didrate.did_id =' . $did));
+                              if ($objupdate) {
+                                   $objupdate['DidsUser']['superresseler_id'] = $this->data['Did']['assign_to'];
+                                   $this->DidsUser->save($objupdate);
+
+
+                                   $objRateupdate['Didrate']['adminbuyrate'] = $this->data['Did']['buyrate'];
+                                   //   $objRateupdate['Didrate']['superresrate'] = $this->data['Did']['sellrate'];
+                                   //   $objRateupdate['Didrate']['currency_id'] = $this->data['Did']['currency_id'];
+
+                                   $this->Didrate->save($objRateupdate);
+                              } else {
+                                   // save did user
+                                   $objdiduser = $this->DidsUser->create();
+                                   $objdiduser['DidsUser']['did_id'] = $did;
+                                   $objdiduser['DidsUser']['superresseler_id'] = $this->data['Did']['assign_to'];
+                                   $objdiduser['DidsUser']['resseller_id'] = 'NULL';
+                                   $objdiduser['DidsUser']['subresseller_id'] = 'NULL';
+
+                                   $this->DidsUser->save($objdiduser);
+
+                                   //save did rate
+                                   $objDidRate = $this->Didrate->create();
+                                   $objDidRate['Didrate']['did_id'] = $did;
+                                   $objDidRate['Didrate']['adminbuyrate'] = $this->data['Did']['buyrate'];
+                                   $objDidRate['Didrate']['superresrate'] = 'NULL';
+                                   $objDidRate['Didrate']['ressellerrate'] = 'NULL';
+                                   $objDidRate['Didrate']['subresrate'] = 'NULL';
+                                   $objDidRate['Didrate']['assignedBy'] = $this->Auth->user('id');
+                                   $objDidRate['Didrate']['currency_id'] = 'NULL';
+
+                                   $this->Didrate->save($objDidRate);
+                              }
+                         } else if ($this->Auth->user('role_id') == 2) {
+                              $objRateupdate = $this->Didrate->find('first', array('conditions' => 'Didrate.did_id =' . $did));
+                              $objupdate = $this->DidsUser->find('first', array('conditions' => 'DidsUser.did_id =' . $did));
+                              if ($objupdate) {
+                                   $objupdate['DidsUser']['resseller_id'] = $this->data['Did']['assign_to'];
+                                   $objdiduser['DidsUser']['subresseller_id'] = 'NULL';
+                                   $this->DidsUser->save($objupdate);
+
+                                   //      $objRateupdate['Didrate']['ressellerrate'] = $this->data['Did']['sellrate'];
+                                   //     $objRateupdate['Didrate']['currency_id'] = $this->data['Did']['currency_id'];
+
+                                   $this->Didrate->save($objRateupdate);
+                              }
+                         } else if ($this->Auth->user('role_id') == 3) {
+                              $objRateupdate = $this->Didrate->find('first', array('conditions' => 'Didrate.did_id =' . $did));
+                              $objupdate = $this->DidsUser->find('first', array('conditions' => 'DidsUser.did_id =' . $did));
+                              if ($objupdate) {
+                                   $objupdate['DidsUser']['subresseller_id'] = $this->data['Did']['assign_to'];
+                                   $this->DidsUser->save($objupdate);
+
+                                   //         $objRateupdate['Didrate']['subresrate'] = $this->data['Did']['sellrate'];
+                                   //   $objRateupdate['Didrate']['currency_id'] = $this->data['Did']['currency_id'];
+                                   $this->Didrate->save($objRateupdate);
+                              }
+                         }
+                    }
+               }
+               $this->redirect(array('action' => 'index'));
+          } else {
+
+               //admin did listing
+               if ($this->Auth->user('role_id') == 1) {
+                    $this->paginate = array('limit' => 100);
+                    //print_r($this->paginate());
+                    //exit;
+                    if ($id != null) {
+                         //  echo $id;
+                         if ($id == 0) {
+                              $this->set('dids', $this->paginate());
+                         } else if ($id > 0) {
+                              $results = $this->paginate('Did', array('Numberrange.id' => $id), array('limit' => 5));
+                              $this->set('dids', $results);
+                         }
+                    } else {
+
+                         $this->set('dids', $this->paginate());
+                    }
+               }
+               // if super resseller is login
+               else if ($this->Auth->user('role_id') == 2) {
+                    $this->paginate = array('limit' => 100);
+                    // echo "Super";
+                    $this->Did->bindModel(array('hasOne' => array('DidsUser')), false);
+                    $this->Did->unbindModel(array('hasMany' => array('DidsUser')), false);
+                    $this->paginate['Did']['contain'] = array('DidsUser');
+                    $this->paginate = array('order' => array('Did.created' => 'desc'));
+                    //print_r($this->data);
+                    //exit;
+                    if ($id != null) {
+                         if ($id == 0) {
+                              $results = $this->paginate('Did', array('DidsUser.superresseler_id' => $this->Auth->user('id')));
+                         } else if ($id > 0) {
+                              $results = $this->paginate('Did', array('DidsUser.superresseler_id' => $this->Auth->user('id'), 'Numberrange.id' => $id));
+                         }
+                         //$this->set('dids',$results);
+                         //echo 'condition';
+                    } else {
+
+                         $results = $this->paginate('Did', array('DidsUser.superresseler_id' => $this->Auth->user('id')));
+                         //echo 'without condition';
+                    }
+
+                    $this->set('dids', $results);
+               } else if ($this->Auth->user('role_id') == 3) {
+                    $this->paginate = array('limit' => 100);
+                    $this->Did->bindModel(array('hasOne' => array('DidsUser')), false);
+                    $this->Did->unbindModel(array('hasMany' => array('DidsUser')), false);
+                    $this->paginate['Did']['contain'] = array('DidsUser');
+                    $this->paginate = array('order' => array('Did.created' => 'desc'));
+                    if ($id != null) {
+                         if ($id == 0) {
+                              $results = $this->paginate('Did', array('DidsUser.resseller_id' => $this->Auth->user('id')));
+                         } else if ($id > 0) {
+                              $results = $this->paginate('Did', array('DidsUser.resseller_id' => $this->Auth->user('id'), 'Numberrange.id' => $id));
+                         }
+                    } else {
+                         $results = $this->paginate('Did', array('DidsUser.resseller_id' => $this->Auth->user('id')));
+                    }
+
+                    $this->set('dids', $results);
+               } else if ($this->Auth->user('role_id') == 4) {
+                    $this->paginate = array('limit' => 100);
+
+                    $this->Did->bindModel(array('hasOne' => array('DidsUser')), false);
+                    $this->Did->unbindModel(array('hasMany' => array('DidsUser')), false);
+                    $this->paginate['Did']['contain'] = array('DidsUser');
+                    $this->paginate = array('order' => array('Did.created' => 'desc'));
+                    if ($id != null) {
+                         if ($id == 0) {
+                              $results = $this->paginate('Did', array('DidsUser.subresseller_id' => $this->Auth->user('id')));
+                         } else if ($id > 0) {
+                              $results = $this->paginate('Did', array('DidsUser.subresseller_id' => $this->Auth->user('id'), 'Numberrange.id' => $id));
+                         }
+                    } else {
+
+                         $results = $this->paginate('Did', array('DidsUser.subresseller_id' => $this->Auth->user('id')));
+                    }
+                    $this->set('dids', $results);
+               }
+          }
+
+          $this->User->recursive = -1;
+          $users = $this->User->find('list', array('fields' => array('User.login'), 'conditions' => array('User.role_id =' => $this->Auth->user('role_id') + 1, 'AND' => array('User.created_by = ' => $this->Auth->user('id')))));
+          $users[0] = '--Select--';
+          ksort($users);
+          $currencies = $this->Currency->find('list', array('fields' => array('id', 'currency_name')));
+          $this->set(compact('users', 'currencies'));
+          $this->set('authUser', $this->Auth->user('role_id'));
+
+          $numberranges = $this->Numberrange->find('list', array('fields' => array('id', 'name')));
+          $numberranges[0] = '--Select--';
+          ksort($numberranges);
+          $this->set(compact('numberranges'));
+     }
+
+     function assigntestuser($did) {
+          //echo $did;
+
+          $objdiduser = $this->DidsUser->create();
+          $objdiduser['DidsUser']['did_id'] = $did;
+          $objdiduser['DidsUser']['superresseler_id'] = 20;
+          $objdiduser['DidsUser']['resseller_id'] = 'NULL';
+          $objdiduser['DidsUser']['subresseller_id'] = 'NULL';
+          $this->DidsUser->save($objdiduser);
+     }
+
+     function test() {
+          print_r($this->data);
+          exit;
+     }
+
+     function view($id = null) {
+          if (!$id) {
+               $this->Session->setFlash(__('Invalid did', true));
+               $this->redirect(array('action' => 'index'));
+          }
+          $this->set('did', $this->Did->read(null, $id));
+     }
+
+     function add() {
+          if (!empty($this->data)) {
+               $this->Did->create();
+               if ($this->Did->save($this->data)) {
+                    $this->Session->setFlash(__('The did has been saved', true));
+                    $this->redirect(array('action' => 'index'));
+               } else {
+                    $this->Session->setFlash(__('The did could not be saved. Please, try again.', true));
+               }
+          }
+          $numberranges = $this->Did->Numberrange->find('list');
+          $this->set(compact('numberranges'));
+     }
+
+     function edit($id = null) {
+
+          if (!$id && empty($this->data)) {
+               $this->Session->setFlash(__('Invalid did', true));
+               $this->redirect(array('action' => 'index'));
+          }
+          if (!empty($this->data)) {
+
+               //assigntestuser();
+               //DidIsTestNumber
+               //print_r($this->data);
+               // exit;
+               if ($this->Did->save($this->data)) {
+                    if ($this->data['Did']['IsTestNumber'] == 1) {
+                         //echo "entered";
+                         $this->assigntestuser($id);
+                         //exit;
+                    } else {
+                         //echo "Not entered";
+                         //exit;
+                    }
+
+
+                    $this->Session->setFlash(__('The did has been saved', true));
+                    $this->redirect(array('action' => 'index'));
+               } else {
+                    $this->Session->setFlash(__('The did could not be saved. Please, try again.', true));
+               }
+          }
+          if (empty($this->data)) {
+               $this->data = $this->Did->read(null, $id);
+          }
+          $numberranges = $this->Did->Numberrange->find('list');
+          $this->set(compact('numberranges'));
+     }
+
+     function delete($id = null) {
+          if (!$id) {
+               $this->Session->setFlash(__('Invalid id for did', true));
+               $this->redirect(array('action' => 'index'));
+          }
+          if ($this->Did->delete($id)) {
+               $this->Session->setFlash(__('Did deleted', true));
+               $this->redirect(array('action' => 'index'));
+          }
+          $this->Session->setFlash(__('Did was not deleted', true));
+          $this->redirect(array('action' => 'index'));
+     }
+
+     function assigndid() {
+          $this->autoRender = false;
+          print_r($this->data);
+          echo 'ok';
+     }
+
+     function uploaddid() {
+          if (!empty($this->data)) {
+
+               if (substr(strrchr($this->data['Did']['did']['name'], '.'), 1) == 'csv') {
+                    $fileOK = $this->uploadFiles('files', $this->data['Did']);
+                    $handle = fopen($fileOK['urls'][0], "r");
+                    $count = 0;
+                    $duplicate = 0;
+                    while (($data = fgetcsv($handle, 9000, ",")) !== FALSE) {
+                         foreach ($data as $element) {
+                              $found = $this->Did->findByDid($element);
+                              if ($found != "") {
+                                   $duplicate++;
+                              } else {
+                                   $objDid = $this->Did->create();
+                                   $objDid['Did']['numberrange_id'] = $this->data['Did']['numberrange_id'];
+                                   $objDid['Did']['did'] = $element;
+                                   $this->Did->save($objDid);
+                                   $count++;
+                              }
+                         }
+                    }
+                    $this->Session->setFlash(__('inserted = ' . $count . ' duplicate = ' . $duplicate, true));
+                    fclose($handle);
+                    $this->redirect(array('action' => 'index'));
+               } else {
+                    $this->Session->setFlash(__('not a valid csv file', true));
+               }
+          }
+          $numberranges = $this->Did->Numberrange->find('list');
+          $this->set(compact('numberranges'));
+     }
+
+     /**
+      * uploads files to the server
+      * @params:
+      * 		$folder 	= the folder to upload the files e.g. 'img/files'
+      * 		$formdata 	= the array containing the form files
+      * 		$itemId 	= id of the item (optional) will create a new sub folder
+      * @return:
+      * 		will return an array with the success of each file upload
+      */
+     function uploadFiles($folder, $formdata, $itemId = null) {
+          // setup dir names absolute and relative
+          $folder_url = WWW_ROOT . $folder;
+          $rel_url = $folder;
+
+          // create the folder if it does not exist
+          if (!is_dir($folder_url)) {
+               mkdir($folder_url);
+          }
+
+          // if itemId is set create an item folder
+          if ($itemId) {
+               // set new absolute folder
+               $folder_url = WWW_ROOT . $folder . '/' . $itemId;
+               // set new relative folder
+               $rel_url = $folder . '/' . $itemId;
+               // create directory
+               if (!is_dir($folder_url)) {
+                    mkdir($folder_url);
+               }
+          }
+
+          // list of permitted file types, this is only images but documents can be added
+          $permitted = array('image/gif', 'image/jpeg', 'image/pjpeg', 'image/png', 'application/vnd.ms-excel');
+
+          // loop through and deal with the files
+          foreach ($formdata as $file) {
+               // replace spaces with underscores
+               $filename = str_replace(' ', '_', $file['name']);
+               // assume filetype is false
+               $typeOK = false;
+               // check filetype is ok
+               foreach ($permitted as $type) {
+                    if ($type == $file['type']) {
+                         $typeOK = true;
+                         break;
+                    }
+               }
+
+               // if file type ok upload the file
+               if ($typeOK) {
+                    // switch based on error code
+                    switch ($file['error']) {
+                         case 0:
+                              // check filename already exists
+                              if (!file_exists($folder_url . '/' . $filename)) {
+                                   // create full filename
+                                   $full_url = $folder_url . '/' . $filename;
+                                   $url = $rel_url . '/' . $filename;
+                                   // upload the file
+                                   $success = move_uploaded_file($file['tmp_name'], $url);
+                              } else {
+                                   // create unique filename and upload file
+                                   ini_set('date.timezone', 'Europe/London');
+                                   $now = date('Y-m-d-His');
+                                   $full_url = $folder_url . '/' . $now . $filename;
+                                   $url = $rel_url . '/' . $now . $filename;
+                                   $success = move_uploaded_file($file['tmp_name'], $url);
+                              }
+                              // if upload was successful
+                              if ($success) {
+                                   // save the url of the file
+                                   $result['urls'][] = $url;
+                              } else {
+                                   $result['errors'][] = "Error uploaded $filename. Please try again.";
+                              }
+                              break;
+                         case 3:
+                              // an error occured
+                              $result['errors'][] = "Error uploading $filename. Please try again.";
+                              break;
+                         default:
+                              // an error occured
+                              $result['errors'][] = "System error uploading $filename. Contact webmaster.";
+                              break;
+                    }
+               } elseif ($file['error'] == 4) {
+                    // no file was selected for upload
+                    $result['nofiles'][] = "No file Selected";
+               } else {
+                    // unacceptable file type
+                    $result['errors'][] = "$filename cannot be uploaded. Acceptable file types: gif, jpg, png.";
+               }
+          }
+          return $result;
+     }
+
+     function numberrange() {
+
+          //echo "called in controller";
+     }
+
+}

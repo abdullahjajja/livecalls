@@ -1,0 +1,630 @@
+Name,Operator,Buying Rate,Selling Rate,Min Duration,Max Duration,Daily Rate,Monthly Rate,Daily Title,Weekly Title,Monthly Title,Currency
+Abkhazia KW1,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Abkhazia KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW1,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW2,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW3,KWAK,0.125,0.09,980,3300,0,0.105,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW4,KWAK,0.025,0.014,980,3300,0,0.017,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW5,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW6,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW7,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW8,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW9,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW10,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW11,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW12,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW13,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW14,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW15,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW16,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Albania KW17,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW18,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Albania KW19,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Algeria KW1,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW2,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW3,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Algeria KW4,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW5,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW6,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW7,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW8,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW9,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria KW10,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Angola KW1,KWAK,0.23,0.17,980,3300,0,0.21,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Angola KW2,KWAK,0.035,0.025,980,3300,0,0.03,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Anguilla KW1,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Anguilla KW2,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Anguilla KW3,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Anguilla KW4,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Anguilla KW5,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Anguilla KW6,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Anguilla KW7,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Antartica Ii KW1,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Antigua And Barbuda KW1,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Antigua And Barbuda KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Armenia KW1,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Armenia KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Armenia KW3,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Aruba KW1,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Austria KW1,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Austria KW2,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Austria KW3,KWAK,0.095,0.07,980,3300,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Azerbaijan KW1,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Azerbaijan KW2,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Azerbaijan KW3,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Barbados KW1,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Barbados KW2,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Barbados KW3,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Belarus KW1,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belarus KW2,KWAK,0.26,0.19,980,3300,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belarus KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belarus KW4,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belarus KW5,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belarus KW6,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belarus KW7,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belarus KW8,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belgium KW1,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belgium KW2,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Belize KW1,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Belize KW2,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Belize KW3,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Belize KW4,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Benin KW1,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bolivia KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bosnia KW1,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW2,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW3,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW4,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW5,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW6,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Bosnia KW7,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW8,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW9,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW10,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW11,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bosnia KW12,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Bulgaria KW1,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Burundi KW1,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW2,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW3,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW4,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW5,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW6,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW7,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW8,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW9,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Burundi KW10,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW11,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW12,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW13,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW14,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Burundi KW15,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cameroon KW1,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cameroon KW2,KWAK,0.4,0.3,980,3300,0,0.36,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cameroon KW3,KWAK,0.095,0.07,980,3300,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW1,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW2,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW3,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW4,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW5,KWAK,0.31,0.23,980,3300,0,0.28,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW6,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW7,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW8,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Central African Republic KW9,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW1,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Chad KW2,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW4,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW5,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW6,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW7,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW8,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW9,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW10,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW11,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW12,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW13,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW14,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW15,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chad KW16,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Chile KW1,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Comoros KW1,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Comoros KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, (Formerly Zaire) KW1",KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, (Formerly Zaire) KW2",KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, (Formerly Zaire) KW3",KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, (Formerly Zaire) KW4",KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, (Formerly Zaire) KW5",KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, Republic Of KW1",KWAK,0.175,0.13,980,3300,0,0.155,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, Republic Of KW2",KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, Republic Of KW3",KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, Republic Of KW4",KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, Republic Of KW5",KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Congo, Republic Of KW6",KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cote D'Ivoire (Ivory Coast) KW1,KWAK,0.28,0.21,980,3300,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cote D'Ivoire (Ivory Coast) KW2,KWAK,0.29,0.21,980,3300,0,0.26,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cote D'Ivoire (Ivory Coast) KW3,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cote D'Ivoire (Ivory Coast) KW4,KWAK,0.24,0.18,980,3300,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cote D'Ivoire (Ivory Coast) KW5,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cote D'Ivoire (Ivory Coast) KW6,KWAK,0.24,0.18,980,3300,0,0.22,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Croatia KW1,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Croatia KW2,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Croatia KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW1,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW2,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW3,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW4,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW5,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW6,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW7,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW8,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW9,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW10,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW11,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW12,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW13,KWAK,0.26,0.19,980,3300,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW14,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW15,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW16,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW17,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW18,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW19,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW20,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW21,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW22,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW23,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW24,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW25,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW26,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW27,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW28,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW29,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW30,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW31,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW32,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW33,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW34,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW35,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW36,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW37,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW38,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW39,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW40,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW41,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW42,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW43,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW44,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW45,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW46,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW47,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW48,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW49,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW50,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW51,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW52,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW53,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW54,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW55,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW56,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW57,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW58,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW59,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW60,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW61,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW62,KWAK,0.23,0.17,980,3300,0,0.21,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW63,KWAK,0.23,0.17,980,3300,0,0.21,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW64,KWAK,0.23,0.17,980,3300,0,0.21,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Cuba KW65,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW66,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW67,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW68,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW69,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW70,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW71,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW72,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW73,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW74,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW75,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW76,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW77,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW78,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cuba KW79,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Cyprus KW1,KWAK,0.015,0.011,980,3300,0,0.012,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Djibouti KW1,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Dominica KW1,KWAK,0.33,0.24,980,3300,0,0.29,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Dominica KW2,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Dominica KW3,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Easter Island KW1,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ecuador KW1,KWAK,0.065,0.04,980,3300,0,0.055,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ecuador KW2,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+El Salvador KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+El Salvador KW2,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+El Salvador KW3,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+El Salvador KW4,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+El Salvador KW5,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+El Salvador KW6,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea KW1,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea KW2,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea KW3,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea KW4,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea KW5,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea KW6,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea KW7,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Eritrea KW1,KWAK,0.065,0.04,980,3300,0,0.055,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Eritrea KW2,KWAK,0.065,0.04,980,3300,0,0.055,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Eritrea KW3,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Eritrea KW4,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Eritrea KW5,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW1,KWAK,0.095,0.07,980,3300,0,0.08,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW2,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW3,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW4,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW5,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Estonia KW6,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Estonia KW7,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW8,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW9,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW10,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW11,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW12,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Estonia KW13,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Ethiopia KW1,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Falkland Islands (Malvinas) KW1,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+France KW1,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+France KW2,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+"Gambia, The KW1",KWAK,0.135,0.1,980,3300,0,0.115,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Gambia, The KW2",KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Gambia, The KW3",KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Gambia, The KW4",KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Georgia KW1,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Georgia KW2,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Ghana KW1,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ghana KW2,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ghana KW3,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Ghana KW4,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Globalstar  KW1,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW2,KWAK,0.39,0.29,980,3300,0,0.35,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW3,KWAK,0.39,0.29,980,3300,0,0.35,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW4,KWAK,0.39,0.29,980,3300,0,0.35,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW5,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW6,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW7,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW8,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW9,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Globalstar  KW10,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Great Britain KW1,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Grenada KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Grenada KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Grenada KW3,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Guatemala KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guatemala KW2,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Guinea KW1,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea KW2,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea KW3,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea KW4,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea KW5,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea KW6,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea KW7,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Guinea KW8,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea KW9,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Guinea-Bissau KW1,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Haiti KW1,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Haiti KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Honduras KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Honduras KW2,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Honduras KW3,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Honduras KW4,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+In - Network KW1,KWAK,0.4,0.3,980,3300,0,0.36,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Iraq KW1,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Jamaica KW1,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Jordan KW1,KWAK,0.035,0.025,980,3300,0,0.03,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Jordan KW2,KWAK,0.035,0.025,980,3300,0,0.03,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Jordan KW3,KWAK,0.035,0.025,980,3300,0,0.03,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kazakhstan KW1,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Kazakhstan KW2,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kazakhstan KW3,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kazakhstan KW4,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Kazakhstan KW5,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kazakhstan KW6,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kazakhstan KW7,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kazakhstan KW8,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Kazakhstan KW9,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Kiribati KW1,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kosovo KW1,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Kyrgyzstan KW1,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Kyrgyzstan KW2,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW1,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW2,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW3,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW4,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW5,KWAK,0.01,0.007,980,3300,0,0.008,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW6,KWAK,0.185,0.13,980,3300,0,0.165,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW7,KWAK,0.01,0.007,980,3300,0,0.008,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW8,KWAK,0.01,0.007,980,3300,0,0.008,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW9,KWAK,0.01,0.007,980,3300,0,0.008,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW10,KWAK,0.175,0.13,980,3300,0,0.155,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW11,KWAK,0.185,0.13,980,3300,0,0.165,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW12,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW13,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW14,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW15,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Latvia KW16,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Latvia KW17,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Latvia KW18,KWAK,0.125,0.09,980,3300,0,0.105,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lesotho KW1,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lesotho KW2,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lesotho KW3,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lesotho KW4,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lesotho KW5,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lesotho KW6,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Lesotho KW7,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW1,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW2,KWAK,0.28,0.21,980,3300,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW4,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Liberia KW5,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW6,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW7,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW8,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Liberia KW9,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW1,KWAK,0.175,0.13,980,3300,0,0.155,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW2,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW3,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW4,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW5,KWAK,0.185,0.13,980,3300,0,0.165,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW6,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW7,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW8,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW9,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW10,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW11,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW12,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW13,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW14,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW15,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW16,KWAK,0.21,0.15,980,3300,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW17,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW18,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW19,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW20,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Lithuania KW21,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Macedonia KW1,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Macedonia KW2,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Macedonia KW3,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Madagascar KW1,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Madagascar KW2,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Madagascar KW3,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Madagascar KW4,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Madagascar KW5,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Madagascar KW6,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Madagascar KW7,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Madagascar KW8,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Malawi KW1,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW1,KWAK,0.21,0.15,980,3300,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW2,KWAK,0.21,0.15,980,3300,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW3,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW4,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW5,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW6,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW7,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW8,KWAK,0.21,0.15,980,3300,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW9,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW10,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW11,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW12,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW13,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW14,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW15,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW16,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW17,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW18,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW19,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW20,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Maldives KW21,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW22,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Maldives KW23,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Maldives KW24,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mali KW1,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mali KW2,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mali KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mali KW4,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania KW1,KWAK,0.115,0.08,980,3300,0,0.095,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania KW2,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania KW4,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania KW5,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania KW6,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Mauritania KW7,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Mauritania KW8,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Micronesia KW1,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Moldova KW1,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Moldova KW2,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Monaco KW1,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Monaco KW2,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montenegro KW1,KWAK,0.135,0.1,980,3300,0,0.115,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montenegro KW2,KWAK,0.135,0.1,980,3300,0,0.115,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montenegro KW3,KWAK,0.135,0.1,980,3300,0,0.115,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montenegro KW4,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Montenegro KW5,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montenegro KW6,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montenegro KW7,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montenegro KW8,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Montserrat KW1,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW1,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW2,KWAK,0.065,0.04,980,3300,0,0.055,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Morocco KW4,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW5,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW6,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW7,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW8,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW9,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW10,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW11,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW12,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Morocco KW13,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Morocco KW14,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Morocco KW15,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Mozambique KW1,KWAK,0.055,0.04,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Namibia KW1,KWAK,0.3,0.22,980,3300,0,0.27,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Nicaragua KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Niger KW1,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Niger KW2,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Nigeria KW1,KWAK,0.3,0.22,980,3300,0,0.27,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Niue KW1,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Norfolk Island KW1,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Oman KW1,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Oman KW2,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Oration KW1,KWAK,0.35,0.26,980,3300,0,0.31,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Philippines KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Philippines KW2,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Philippines KW3,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Poland KW1,KWAK,0.155,0.11,980,3300,0,0.135,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW2,KWAK,0.175,0.13,980,3300,0,0.155,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW3,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Poland KW4,KWAK,0.165,0.12,980,3300,0,0.145,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW5,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW6,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW7,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW8,KWAK,0.135,0.1,980,3300,0,0.115,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW9,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW10,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW11,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW12,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland KW13,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Qatar KW1,KWAK,0.035,0.025,980,3300,0,0.03,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Romania KW1,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Saint Helena KW1,KWAK,0.28,0.21,980,3300,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Helena KW2,KWAK,0.28,0.21,980,3300,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Helena KW3,KWAK,0.28,0.21,980,3300,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Helena KW4,KWAK,0.28,0.21,980,3300,0,0.25,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Kitts And Nevis KW1,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Kitts And Nevis KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Kitts And Nevis KW3,KWAK,0.06,0.045,980,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Lucia KW1,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Lucia KW2,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Lucia KW3,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Lucia KW4,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Lucia KW5,KWAK,0.05,0.035,980,3300,0,0.045,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saint Vincent And The Grenadines KW1,KWAK,0.03,0.02,980,3300,0,0.025,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saudi Arabia KW1,KWAK,0.025,0.014,980,3300,0,0.017,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saudi Arabia KW2,KWAK,0.025,0.014,980,3300,0,0.017,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saudi Arabia KW3,KWAK,0.025,0.014,980,3300,0,0.017,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saudi Arabia KW4,KWAK,0.025,0.014,980,3300,0,0.017,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saudi Arabia KW5,KWAK,0.025,0.014,980,3300,0,0.017,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Saudi Arabia KW6,KWAK,0.025,0.014,980,3300,0,0.017,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Senegal KW1,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Senegal KW2,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Senegal KW3,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Senegal KW4,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Serbia KW1,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW2,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW4,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW5,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Serbia KW6,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Serbia KW7,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Serbia KW8,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Serbia KW9,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW10,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW11,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW12,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW13,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Serbia KW14,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Seychelles KW1,KWAK,0.23,0.17,980,3300,0,0.21,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW2,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Seychelles KW3,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW4,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW5,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW6,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW7,KWAK,0.22,0.16,980,3300,0,0.2,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW8,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW9,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Seychelles KW10,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sierra Leone KW1,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sierra Leone KW2,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sierra Leone KW3,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sierra Leone KW4,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sierra Leone KW5,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Slovenia KW1,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Slovenia KW2,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Slovenia KW3,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Slovenia KW4,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Slovenia KW5,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Slovenia KW6,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Slovenia KW7,KWAK,0.18,0.13,980,3300,0,0.16,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Slovenia KW8,KWAK,0.125,0.09,980,3300,0,0.105,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Somalia KW1,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW2,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW3,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW4,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW5,KWAK,0.21,0.15,980,3300,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW6,KWAK,0.21,0.15,980,3300,0,0.19,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW7,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW8,KWAK,0.2,0.15,980,3300,0,0.18,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW9,KWAK,0.19,0.14,980,3300,0,0.17,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW10,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW11,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia KW12,KWAK,0.16,0.12,980,3300,0,0.14,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+South Sudan KW1,KWAK,0.085,0.06,980,3300,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+South Sudan KW2,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Spain KW1,KWAK,0.175,0.13,980,3300,0,0.155,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Spain KW2,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Spain KW3,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Spain KW4,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Spain KW5,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sri Lanka KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Switzerland KW1,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Switzerland KW2,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Switzerland KW3,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Switzerland KW4,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tanzania KW1,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tanzania KW2,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Tokelau KW1,KWAK,0.25,0.18,980,3300,0,0.225,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tonga KW1,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tonga KW2,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Trinidad And Tobago KW1,KWAK,0.035,0.025,980,3300,0,0.03,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW1,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Tunisia KW2,KWAK,0.17,0.12,980,3300,0,0.15,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Tunisia KW3,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW4,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW5,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW6,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW7,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW8,KWAK,0.12,0.09,980,3300,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW9,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW10,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW11,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW12,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW13,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW14,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW15,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW16,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tunisia KW17,KWAK,0.125,0.09,980,3300,0,0.105,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Tunisia KW18,KWAK,0.125,0.09,980,3300,0,0.105,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Turkey KW1,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Turkmenistan KW1,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Turkmenistan KW2,KWAK,0.04,0.03,980,3300,0,0.035,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Turks And Caicos Islands KW1,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Turks And Caicos Islands KW2,KWAK,0.02,0.013,980,3300,0,0.016,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Tuvalu KW1,KWAK,0.26,0.19,980,3300,0,0.23,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Uganda KW1,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Uganda KW2,KWAK,0.11,0.08,980,3300,0,0.09,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Uganda KW3,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Uganda KW4,KWAK,0.09,0.07,980,3300,0,0.075,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Uganda KW5,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Uganda KW6,KWAK,0.07,0.05,980,3300,0,0.06,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Uganda KW7,KWAK,0.1,0.07,980,3300,0,0.085,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Uganda KW8,KWAK,0.08,0.06,980,3300,0,0.065,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+United Arab Emirates KW1,KWAK,0.035,0.025,980,3300,0,0.03,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Vanuatu KW1,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Vanuatu KW2,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+"Virgin Islands, British KW1",KWAK,0.065,0.04,980,3300,0,0.055,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zambia KW1,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zambia KW2,KWAK,0.145,0.1,980,3300,0,0.125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe KW1,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe KW2,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe KW3,KWAK,0.14,0.1,980,3300,0,0.12,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe KW4,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe KW5,KWAK,0.13,0.09,980,3300,0,0.11,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Zimbabwe KW6,KWAK,0.15,0.11,980,3300,0,0.13,Daily 1/1,Weekly 7/3,Monthly 30/45,USD

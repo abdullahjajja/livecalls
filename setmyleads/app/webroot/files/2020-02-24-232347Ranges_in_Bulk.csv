@@ -1,0 +1,10 @@
+Name,Operator,Buying Rate,Selling Rate,Min Duration,Max Duration,Daily Rate,Monthly Rate,Daily Title,Weekly Title,Monthly Title,Currency
+Benin AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Jamaica AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+BVI AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Algeria AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+East AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Equatorial Guinea AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Somalia AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Iraq AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sao Tome AT,Aggregator,0,0,7200,7200,0,0,Daily 1/1,Weekly 7/3,Monthly 30/45,USD

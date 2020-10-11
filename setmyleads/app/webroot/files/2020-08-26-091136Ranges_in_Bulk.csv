@@ -1,0 +1,5 @@
+Name,Operator,Buying Rate,Selling Rate,Min Duration,Max Duration,Daily Rate,Monthly Rate,Daily Title,Weekly Title,Monthly Title,Currency
+Sudan AT5,Aggregator,0.075,0.035,2300,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sudan AT6,Aggregator,0.075,0.035,2300,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sudan AT7,Aggregator,0.075,0.035,2300,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Sudan AT8,Aggregator,0.075,0.035,2300,3300,0,0.05,Daily 1/1,Weekly 7/3,Monthly 30/45,USD

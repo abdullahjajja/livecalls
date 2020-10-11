@@ -1,0 +1,355 @@
+<?php
+$globalvar=0;
+
+?>
+
+<script type="text/javascript">
+var dataStore = window.sessionStorage;
+$(document).ready(function() {
+   var globvar=0;
+ $('#DidBuyrate').val($('#DidHdbuyrate').val());
+  
+ });
+
+$(window).load(function(){
+var selid=dataStore.getItem('idd');
+$('#DidNumberrangeId').prop('selectedIndex', selid);
+var urll=( document.URL );
+var n=urll.search("page");
+dataStore.setItem('pagefound', n);
+
+  
+});
+
+function numberfilter(){
+    //alert("called me");
+   
+ 
+/** process team array here as if it were in the view **/
+
+var selindex=$('#DidNumberrangeId').prop("selectedIndex");
+var nmbselected=($('#DidNumberrangeId').val());
+dataStore.setItem('idd', selindex);
+var ispagefound=dataStore.getItem('pagefound');
+
+//alert(nmbselected);
+window.location=("/livecalls/dids/index?id="+nmbselected);
+
+return;
+                  $.ajax({
+                      url: "../dids/index",
+                      type: "GET",
+                      data:"id=" + nmbselected,
+                      success: function(msg){
+                       alert("sucess");
+                         // $('#maintbl').html('');
+                         // $('#maintbl').append(msg);
+                          
+                       //alert(msg);
+                      },
+error:function(){
+
+alert("error");
+}
+                  });
+
+    
+}
+
+
+
+
+
+  function toggleall()
+  {      
+      var data = $('input:checkbox[name="cbdid"[]]');          
+        if($('#DidCbdidheader').attr('checked'))
+        {        
+            data.attr('checked','checked');         
+            var didselected = '';
+            data.each(function() {    
+                if(didselected == '')
+                {
+                    if($(this).attr('id')!= 'DidCbdidheader')
+                       //alert($(this).attr('disabled')); 
+                    {didselected = $(this).attr('id');  }
+                }
+                else{
+
+var attr = $(this).attr('disabled');
+if(attr=="disabled"){
+//alert(attr);
+$(this).removeAttr('checked');
+}else{
+didselected = didselected + ","+$(this).attr('id');
+
+}
+         }
+            });        
+            $('#DidHdnselected').val(didselected);         
+        }
+        else
+        {                  
+            data.removeAttr('checked');
+            $('#DidHdnselected').val('');
+        }          
+  }
+  function toggleone(id,test)
+  {
+$('#buyrate').val(id);
+//alert(id);
+if(test==0){
+      var str = $('#DidHdnselected').val();
+       str = str.replace(id+",", "");
+        str = str.replace(id, "");
+     if($('#'+id).attr('checked'))
+         {             
+             if(str == '')
+                 {
+             str = id;
+                 }
+                 else
+                     {
+                       str = str +","+id;  
+                      
+                     }         
+         }
+
+//alert($('#DidHdbuyrate').val());
+  
+
+
+
+ $('#DidHdnselected').val(str);        
+}else{
+alert("Test Dids Can't Assign");
+document.getElementById(id).checked = false;
+
+}
+ }
+    function validate()
+    {
+        if($('#DidHdnselected').val() == ""  )
+        {
+        alert("Please Select DID(s)");
+        return false;
+        }
+        if($("#DidAssignTo").val() == "0")
+        {
+         alert("Please Select User");
+         return false;
+        }
+    return true;
+    }
+</script>
+<div id="maincontent">	
+    
+    
+    
+    
+        <?php echo $this->Form->create('Did',array('action'=>'index','type' =>'post')); ?>
+   
+    
+        <fieldset  >
+        <?php
+           $pricesort = array(
+    'asc' => 'Sort ASC'
+);
+           ?>
+           
+           <?php echo $this->Form->input('numberrange_id',  array('onchange' => 'numberfilter();', 'style'=>'border: 1px solid #40C900;float: left;height: 30px; width: 102px;')); ?>
+                                               
+    
+            <legend><?php __('DID Assignment'); ?></legend>
+           <?php echo $this->Form->input('assign_to', array('type'=>'select','options'=>$users, 'style'=>'margin-left:10px;width:122px;')); 
+            echo $this->Form->input('currency_id',array('type'=>'select','label'=>'&nbsp;Currency','options'=>$currencies, 'style'=>'margin-left:10px;width:70px;'));
+            
+            echo $this->Form->input('buyrate',array('options'=>$did['Didrate'][0]['superresrate'],'label'=>'&nbsp;Buying Rate&nbsp;&nbsp;','class'=>'inputbox132px','style'=>'width:55px;'));
+	    echo $this->Form->input('sellrate',array('label'=>'&nbsp;Selling Rate&nbsp;&nbsp;','class'=>'inputbox132px','style'=>'width:55px;'),array('id' => 'txtselling'));
+            echo $this->Form->submit('bt-assign.png', array('type'=>'image', 'style'=>'float:left;margin-left:10px;margin-top:2px;', 'id'=>'btnassign', 'name'=>'btnassign','onclick'=>'return validate()'));
+            echo $this->Form->hidden('hdnselected');
+            ?>
+        </fieldset>
+        </div>
+        
+                <div  id="maincontent">
+    <div class="mainheading"><div align="left">DIDs List</div> <?php if($authUser == '1') {   ?> <div align="right" style="margin-top: -15px; margin-right:75px;" ><?php echo $this->Html->link(__('Import', true), array('action' => 'uploaddid')); ?></div><div align="right" style="margin-top: -15px" ><?php echo $this->Html->link(__('Add New', true), array('action' => 'add')); ?></div> <?php } ?> </div>
+	   <div class="maincenterBg" id="maintbl">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="10" >
+                        <tr>
+                          <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td class="gridtable" ><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td class="gridtableHeader"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+			
+
+			<td width="5%" align="center"><?php echo $this->Form->input('cbdidheader', array('label' => false, 'type' => 'checkbox', 'onclick'=>'toggleall()'));   ?></td>
+			<td width="20%" align="center"><?php echo $this->Paginator->sort('numberrange_id');?></td>
+			<td width="20%" align="center"><?php echo $this->Paginator->sort('did');?></td>
+                       <td width="7%" align="center"><?php echo $this->Paginator->sort('currency_id');?></td>
+                       
+                       <td width="7%" align="center"><?php echo $this->Paginator->sort('adminbuyrate');?></td>
+                       
+                       <td width="7%" align="center"><?php echo $this->Paginator->sort('superresrate');?></td> 
+                       
+			<?php if($authUser != '4') { 
+                        echo  "<td width=\"20%\" align=\"center\"> Assigned To</td>";
+                        } ?>
+                        <?php if($authUser == '1') {   ?>
+			<td width="20%" align="center"><?php __('Actions');?></td>
+                        <?php } ?>
+	
+                        </tr>
+                                  </table></td>
+                                </tr>
+                                
+                                  <tr>
+                                    
+	<?php
+	$i = 0;
+       
+	foreach ($dids as $did):
+		$class =' class="grid2dark"' ;
+		if ($i++ % 2 == 0) {
+			$class = ' class="grid1light"';
+		}
+	?>
+        
+	  <td <?php echo $class;?>><table width="100%" border="0" cellspacing="0" cellpadding="0" >
+                   <tr>
+                   <?php 
+                    $IsTest = 'false';
+                    if($did['Did']['IsTestNumber'] == 1)
+                    {
+                    $IsTest = 'true';
+                        }
+                    ?>
+              
+                       
+		<td width="5%" align="center" class="gridcellborder"> <?php  echo $this->Form->input('cbdid_'.$did['Did']['id'], array('label' => false, 'id'=>$did['Did']['id'], 'name'=>'cbdid', 'type' => 'checkbox','disabled'=>$IsTest ,'onclick'=>'toggleone('.$did['Did']['id'].','.$did['Did']['IsTestNumber'].')'));   ?>  </td>
+		
+                <td width="20%" align="center" class="gridcellborder">
+		<?php echo $did['Numberrange']['name']; 
+
+
+?>
+		</td>
+		<td width="20%" align="center" class="gridcellborder"><?php echo $did['Did']['did']; ?></td>
+
+            
+                <?php $assignedto = 'N/A';
+                if($authUser == '1')
+                        {
+                            if(isset($did['DidsUser'][0]['superresseler_id']))
+                            {                      
+                            $assignedto = $getuser->getUserNameById($did['DidsUser'][0]['superresseler_id']);                                                        
+                            }
+                        }
+                        else if($authUser == '2')
+                        {
+                            if(isset($did['DidsUser']['resseller_id']))
+                            {  
+                            $assignedto = $getuser->getUserNameById($did['DidsUser']['resseller_id']);
+
+                        echo $this->Form->hidden('hdbuyrate',array('value' => $did['Didrate'][0]['superresrate']));
+                        
+                           
+                            }
+                        }
+                        else if($authUser == '3')
+                        {
+                            if(isset($did['DidsUser']['subresseller_id']))
+                            {  
+                            $assignedto = $getuser->getUserNameById($did['DidsUser']['subresseller_id']);
+                echo $this->Form->hidden('hdbuyrate',array('value' => $did['Didrate'][0]['ressellerrate']));
+                            }
+                        }
+                    
+                 ?>
+                <?php
+                App::import('Helper', 'getcurrency'); // loadHelper('Html'); in CakePHP 1.1.x.x
+                $getcurrency = new getcurrencyHelper();
+                $curname = $getcurrency->getcurrencyNameById($did['Didrate'][0]['currency_id']);    
+               
+                ?>
+                
+                <td width="7%" align="center" class="gridcellborder"><?php echo $curname; ?></td>
+                 
+                <td width="7%" align="center" class="gridcellborder"><?php echo $did['Didrate'][0]['adminbuyrate']; ?></td>
+                <td width="7%" align="center" class="gridcellborder"><?php echo $did['Didrate'][0]['superresrate']; ?></td>
+                
+                 <?php if($authUser != '4') { 
+		echo "<td width=\"20%\" align=\"center\" class=\"gridcellborder\">".$assignedto."</td>";
+                echo $this->Form->hidden('hdbuyrate',array('value' => $did['Didrate'][0]['subresrate']));
+                     } ?>
+                      <?php if($authUser == '1') {   ?>
+		<td width="20%" align="center" class="gridcellborder">				
+			<?php echo $this->Html->link(__('Edit', true), array('action' => 'edit', $did['Did']['id'])); ?>
+			<?php echo $this->Html->link(__('Delete', true), array('action' => 'delete', $did['Did']['id']), null, sprintf(__('Are you sure you want to delete # %s?', true), $did['Did']['id'])); ?>
+		</td>
+                <?php } ?>
+	  </tr>
+                                  </table></td>
+                                </tr>
+<?php endforeach; ?>
+	   </table></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+      <div style="text-align:center">         
+	<p>
+	<?php
+        
+       	echo $this->Paginator->counter(array(
+	'format' => __('Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%', true)
+            
+	));
+     
+       //extract the get variables
+$url = $this->params['url'];
+unset($url['url']);
+$get_var = http_build_query($url);
+
+$arg1 = array(); $arg2 = array();
+//take the named url
+if(!empty($this->params['named']))
+$arg1 = $this->params['named'];
+
+//take the pass arguments
+if(!empty($this->params['pass']))
+$arg2 = $this->params['pass'];
+
+//merge named and pass
+$args = array_merge($arg1,$arg2);
+
+//add get variables
+$args["?"] = $get_var;
+
+$this->Paginator->options(array('url' => $args));
+
+        
+	?>	</p>
+
+        
+        
+        
+	<div class="paging" >
+		<?php echo $this->Paginator->prev('<< ' . __('previous', true), array(), null, array('class'=>'disabled'));?>
+	 | 	<?php echo $this->Paginator->numbers();?>
+ |
+		<?php echo $this->Paginator->next(__('next', true) . ' >>', array(), null, array('class' => 'disabled'));?>
+ <?php
+  //In view file before any call to Paginator Helper
+  //$this->params['url'] contains all the query string with key and
+
+  
+ ?>
+	</div>
+</div>
+        <?php echo $this->Form->end();?>
+
+</div>
+ <div class="mainbottomBg"></div>

@@ -1,0 +1,12 @@
+Name,Operator,Buying Rate,Selling Rate,Min Duration,Max Duration,Daily Rate,Monthly Rate,Daily Title,Weekly Title,Monthly Title,Currency
+Poland Fixed AV1,AVALON,0.0025,0.002,980,1180,0,0.00225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Poland Fixed AV2,AVALON,0.0025,0.002,980,1180,0,0.00225,Daily 1/1,Weekly 7/3,Monthly 30/45,EURO
+Grenada Premium AV1,AVALON,0.12,0.08,980,1180,0,0.1,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Grenada Mobile AV1,AVALON,0.026,0.02,980,1180,0,0.0225,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Vietnam Fixed AV1,AVALON,0.015,0.01,980,1180,0,0.0125,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Afghanistan AV1,AVALON,0.085,0.05,980,1180,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Afghanistan AV2,AVALON,0.085,0.05,980,1180,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Afghanistan AV3,AVALON,0.085,0.05,980,1180,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Afghanistan AV4,AVALON,0.085,0.05,980,1180,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Afghanistan AV5,AVALON,0.085,0.05,980,1180,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
+Afghanistan AV6,AVALON,0.085,0.05,980,1180,0,0.07,Daily 1/1,Weekly 7/3,Monthly 30/45,USD
